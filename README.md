@@ -1,2 +1,4 @@
-# emilio_portfolio
-Analytics and Data Science Portfolio
+# Emilio Rojas's Portfolio
+Analytics and Data Science Projects
+
+
