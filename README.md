@@ -14,7 +14,7 @@ Let's connect in [LinkedIn](https://www.linkedin.com/in/emilio-rojas-flores/) an
 * **The Execution:** Generated synthetic, funnel-biased B2B data to mimic real customer journeys. Built an automated ETL pipeline using DuckDB to calculate First-Touch, Last-Touch, and Linear attribution models.
 * **Business Impact:** In the future, being able to apply inferential statistics (One-Way ANOVA & Tukey HSD) to mathematically prove which channels drive actual business momentum versus statistical noise, providing actionable reallocation strategies for ad spend.
 
-### 📧 [AI-Powered Job Application Tracker](https://github.com/emiliorojasflo/job-application-tracker)
+### 📧 [AI-Powered Job Application Tracker](https://github.com/emiliorojasflo/job_application_tracking_automation)
 **Tech Stack:** Google Apps Script (JavaScript), Gmail API, Google Sheets API, Anthropic Claude API
 * **The Goal:** Eliminate manual tracking of job applications by automatically detecting application-related emails (in English and Spanish), classifying their pipeline status, and surfacing the data in a clean, editable dashboard — without standing up any backend infrastructure.
 * **The Execution:** Built a serverless polling pipeline on Google Apps Script that pre-filters Gmail with a multilingual query, sends each candidate thread to Claude Haiku for structured-output classification (company, role, status, salary, location, source), and upserts the result into an auto-generated Google Sheet. Implemented a monotonic state machine so application status only advances forward, an Event Log tab for full classification auditability, and a `diagnose()` function for layer-by-layer observability.
