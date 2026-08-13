@@ -8,6 +8,15 @@ When I'm not wrangling data, you'll find me on the tennis court, traveling somew
 
 Let's connect in [LinkedIn](https://www.linkedin.com/in/emilio-rojas-flores/) and/or shoot me an email (emilio.rojas@duke.edu). Happy to chat.
 
+
+### 🎵 [Photo Vibe Music Recommender (Picmu)](https://github.com/emiliorojasflo/picmu)
+**Tech Stack:** Python, Streamlit, Anthropic API (Claude Vision), Spotify Web API, Pandas
+
+* **The Goal:** Build and ship an end-to-end AI product — upload a photo, get music recommendations matching its vibe — from concept to a publicly deployed app.
+* **The Execution:** Used Claude Vision to convert images into structured genre signals, matched them against a 6,276-genre real-world taxonomy, and layered in preference-weighted recommendations with a built-in discovery pick. Integrated the Spotify API for live search, redesigning around Spotify's Feb 2026 endpoint deprecations.
+* **Business Impact:** Demonstrates rapid full-stack product development and the ability to redesign an architecture on the fly when a core third-party dependency changed mid-build — a common real-world constraint in shipped software.
+
+
 ### 📊 [Multi-Channel Marketing Attribution Pipeline](https://github.com/emiliorojasflo/marketing_rule_based_attribution_models)
 **Tech Stack:** Python (pandas, scipy), DuckDB, SQL, Seaborn
 * **The Goal:** Understand the fundamentals of rule-based attribution models in digital marketing by building a relational data pipeline capable of distributing conversion revenue across multiple marketing channels.
