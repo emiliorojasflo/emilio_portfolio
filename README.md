@@ -1,4 +1,4 @@
-# Emilio Rojas's Portfolio 
+# Emilio Rojas' Portfolio 
 Hi! I'm Emilio Rojas, a data and analytics professional with a passion for the intersection of technology, behavioral science, and business strategy. I love turning complex data into clear decisions that actually move the needle.
 My background spans operations and growth analytics, experimentation, and data product building across Latin America's tech ecosystem (Rappi, Nestlé) and recently the research world at [Duke's Center for Advanced Hindsight](https://advanced-hindsight.com/), where I get to explore how behavioral science can reshape financial products.
 
